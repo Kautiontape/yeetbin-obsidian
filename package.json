@@ -9,7 +9,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^16.11.6",
-		"builtin-modules": "3.3.0",
+		"builtin-modules": "5.4.0",
 		"esbuild": "0.28.2",
 		"obsidian": "latest",
 		"tslib": "2.8.1",
