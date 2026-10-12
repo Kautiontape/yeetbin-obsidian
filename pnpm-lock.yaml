@@ -12,8 +12,8 @@ importers:
         specifier: ^16.11.6
         version: 16.18.126
       builtin-modules:
-        specifier: 3.3.0
-        version: 3.3.0
+        specifier: 5.4.0
+        version: 5.4.0
       esbuild:
         specifier: 0.28.2
         version: 0.28.2
@@ -326,9 +326,9 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  builtin-modules@3.3.0:
-    resolution: {integrity: sha512-zhaCDicdLuWN5UbN5IMnFqNMhNfo919sH85y2/ea+5Yg9TsTkeZxpL+JLbp6cgYFS4sRLp3YV4S6yDuqVWHYOw==}
-    engines: {node: '>=6'}
+  builtin-modules@5.4.0:
+    resolution: {integrity: sha512-JCWSCdun+4Ovd9BhM/Vtlmwb7oD6Wl4YiPRXXwhAuwlPhW1un/MKgXn7GZoFm53ginnoNzus69V8JWx0K393jg==}
+    engines: {node: '>=18.20'}
 
   crelt@1.0.6:
     resolution: {integrity: sha512-VQ2MBenTq1fWZUH9DJNGti7kKv6EeAuYr3cLwxUWhIu1baTaXh4Ib5W2CqHVqib4/MqbYGJqiL3Zb8GJZr3l4g==}
@@ -526,7 +526,7 @@ snapshots:
   '@typescript/typescript-win32-x64@7.0.2':
     optional: true
 
-  builtin-modules@3.3.0: {}
+  builtin-modules@5.4.0: {}
 
   crelt@1.0.6: {}
 
